@@ -1,0 +1,5 @@
+export const SIGNIN = 'SIGNIN'
+export const SIGNUP = 'SIGNUP'
+export const REQUEST_RESET = 'REQUEST_RESET'
+export const PASSWORD_RESET = 'PASSWORD_RESET'
+export const SIGNOUT = 'SIGNOUT'
